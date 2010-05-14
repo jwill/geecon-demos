@@ -1,5 +1,3 @@
-package main.groovy
-
 /**
  * Created by IntelliJ IDEA.
  * User: jwill

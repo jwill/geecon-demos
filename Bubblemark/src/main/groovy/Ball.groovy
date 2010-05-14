@@ -1,5 +1,3 @@
-package main.groovy
-
 import org.newdawn.slick.Image
 import java.awt.Insets
 
